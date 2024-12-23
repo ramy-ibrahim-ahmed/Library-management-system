@@ -1,4 +1,4 @@
-# 📚Library management system in functional paradigm by F#
+# 📚Library management system in F#
 
 Building a library management system desktop application with functional programming paradigm powered by F#.
 
